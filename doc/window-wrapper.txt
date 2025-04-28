@@ -1,0 +1,15 @@
+" window-wrapper.txt
+*window-wrapper.txt* Window Wrapper Plugin
+========================================
+
+A Neovim plugin that wraps the window selection around.
+
+Usage
+-----
+
+To use:
+> <C-w>h will wrap around to the right side of the screen if on the first window.
+> <C-w>l will wrap around to the left side of the screen if on the last window.
+
+See also:
+*nvim_api*
